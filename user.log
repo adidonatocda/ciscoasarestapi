@@ -1,0 +1,380 @@
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password ]8W#Fh![(|]C'!#? privilege 15"]}
+{"commands":["username enable_15 password *0^o;Jv5V!G["R~W privilege 15"]}
+{"commands":["username SecOps1 password y/%\RU{8PS0m4lWC privilege 15"]}
+{"commands":["username SecOps2 password GO!SK<.>7EKMNHqq privilege 15"]}
+{"commands":["username SecOps3 password MF;,w(w,R8Iy2oLS privilege 15"]}
+{"commands":["username SecOps4 password bl#5q(l>"]H\z!,D privilege 15"]}
+{"commands":["username SecOps5 password H\)VK'+I(=IEA2>| privilege 15"]}
+{"commands":["username SecOps6 password KqH*#Iszc?oIJ7K{ privilege 15"]}
+{"commands":["username SecOps7 password /:W@nlxCL~vlCaTg privilege 15"]}
+{"commands":["username tufin password 6PX@EQLx4+3Cb@J4 privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password l[q:"{I=:#>x<.mQ privilege 15"]}
+{"commands":["username enable_15 password rf-!;(f.sSBmQ:^V privilege 15"]}
+{"commands":["username SecOps1 password ji`^21U{2I<w_u'& privilege 15"]}
+{"commands":["username SecOps2 password 4Z#)O_V"i5]VK$F= privilege 15"]}
+{"commands":["username SecOps3 password q>!ZUc{Gjc\flaW; privilege 15"]}
+{"commands":["username SecOps4 password &c="<HLe.>@vqBp# privilege 15"]}
+{"commands":["username SecOps5 password 6w!_&1c\~;VBS{A0 privilege 15"]}
+{"commands":["username SecOps6 password |t]b5%R[)e3r}aOt privilege 15"]}
+{"commands":["username SecOps7 password UidsJE&;T)5t<p[w privilege 15"]}
+{"commands":["username tufin password ]rS~C#BNx]^apk61 privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password {K"!VR+I28~,e]{u privilege 15"]}
+{"commands":["username enable_15 password zX$;V:Yo\;S$uD*_ privilege 15"]}
+{"commands":["username SecOps1 password ~4$XyYlgO(W1t&3U privilege 15"]}
+{"commands":["username SecOps2 password 0,!aCZni^XmuUl\9 privilege 15"]}
+{"commands":["username SecOps3 password /xi)t5GzmXnux-QO privilege 15"]}
+{"commands":["username SecOps4 password v_G4-L|``aM"Hy]n privilege 15"]}
+{"commands":["username SecOps5 password )/3PYH~1uO!&ycp; privilege 15"]}
+{"commands":["username SecOps6 password }$m`%L9AjWz)Wlht privilege 15"]}
+{"commands":["username SecOps7 password 6o!Yw+.z(K/0`<,0 privilege 15"]}
+{"commands":["username tufin password ^,\Sw<#fu`:Fu8HE privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password 4\eL9<kCG[=;*>dm privilege 15"]}
+{"commands":["username enable_15 password LW9z0$yoCUSY]3>< privilege 15"]}
+{"commands":["username SecOps1 password sVry[oJ#t9SEJeJS privilege 15"]}
+{"commands":["username SecOps2 password ?.T{>P_)(@EYBJ5% privilege 15"]}
+{"commands":["username SecOps3 password FymUi^0:*bowB/c. privilege 15"]}
+{"commands":["username SecOps4 password QH6tViP7t{5BQ()l privilege 15"]}
+{"commands":["username SecOps5 password ~PRL}nAk*fi}V#M: privilege 15"]}
+{"commands":["username SecOps6 password @SjS0E"~\pjSDwTt privilege 15"]}
+{"commands":["username SecOps7 password U]U'j=u/ayI#o#S^ privilege 15"]}
+{"commands":["username tufin password $de6A5({<IKN$,AS privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password :y`oyL~Y@EzS#kXp privilege 15"]}
+{"commands":["username enable_15 password vY(;:=!E)*lHkNrS privilege 15"]}
+{"commands":["username SecOps1 password d8Py-$IMbdtRT+5u privilege 15"]}
+{"commands":["username SecOps2 password x.hAjsU/t?OOq-|H privilege 15"]}
+{"commands":["username SecOps3 password B!bWDBrR5`:N&Jb6 privilege 15"]}
+{"commands":["username SecOps4 password A;-j|`/|20zP`|ym privilege 15"]}
+{"commands":["username SecOps5 password IR.tP|8N`c*F+6r7 privilege 15"]}
+{"commands":["username SecOps6 password 6{Es*m..%(+D(u\Z privilege 15"]}
+{"commands":["username SecOps7 password U:QJ&zm:;VFjBT8` privilege 15"]}
+{"commands":["username tufin password }!(QE&2Shb!!d5dr privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password }n/m8;|W8GM*gCKm privilege 15"]}
+{"commands":["username enable_15 password U6Y&rkM8$*F0jDP1 privilege 15"]}
+{"commands":["username SecOps1 password em%'k3HOazg!mHE= privilege 15"]}
+{"commands":["username SecOps2 password `M\c-?o8bZhPCF9& privilege 15"]}
+{"commands":["username SecOps3 password f_;Lz+WZfpSdg8UJ privilege 15"]}
+{"commands":["username SecOps4 password 1dlv=pLuKwSx-Ng3 privilege 15"]}
+{"commands":["username SecOps5 password )#[&5^}jH2qUn,"* privilege 15"]}
+{"commands":["username SecOps6 password [{}3=h7o=@5Y>'}^ privilege 15"]}
+{"commands":["username SecOps7 password p-kMcPYj(\Iw"UFT privilege 15"]}
+{"commands":["username tufin password SS9<t&R2vyW/J}NS privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password umg/!xpv6p@m2Nvu privilege 15"]}
+{"commands":["username enable_15 password g!%kZcU@6M{;$WNq privilege 15"]}
+{"commands":["username SecOps1 password oDnq:xpH)CC0O;z5 privilege 15"]}
+{"commands":["username SecOps2 password 8^B.M)p{J70j0Ui$ privilege 15"]}
+{"commands":["username SecOps3 password oGa)c/$C:.og#&MW privilege 15"]}
+{"commands":["username SecOps4 password +.3Bx^Aq(RbZP[or privilege 15"]}
+{"commands":["username SecOps5 password ,vOb+7c"oq9v;}]< privilege 15"]}
+{"commands":["username SecOps6 password q7d]iguHe2??/wL- privilege 15"]}
+{"commands":["username SecOps7 password o`GNEBY5~$Kz*C;1 privilege 15"]}
+{"commands":["username tufin password a^*x{;,C(N\3)jmO privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password /KQ)wllG"^"Ye*>s privilege 15"]}
+{"commands":["username enable_15 password ys=f.AJu8r)(y6Z4 privilege 15"]}
+{"commands":["username SecOps1 password ~xk$0#_<XIhLx8^7 privilege 15"]}
+{"commands":["username SecOps2 password o]/0%/$NarY:J5wV privilege 15"]}
+{"commands":["username SecOps3 password "G[`k4JdE"FHdaM2 privilege 15"]}
+{"commands":["username SecOps4 password )cTMy/#dUtS-<6Qf privilege 15"]}
+{"commands":["username SecOps5 password o*?C4=?26W{h3]At privilege 15"]}
+{"commands":["username SecOps6 password `;f$I)i<Ar0q/r`P privilege 15"]}
+{"commands":["username SecOps7 password v=8~MTh)^bW{&D-O privilege 15"]}
+{"commands":["username tufin password ]]csmj"3.6~~O.q3 privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password ;43`}!kT/~J_q7wL privilege 15"]}Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password {L?:1G^\wK$<j/"^ privilege 15"]}Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password O=}A1j|^p]3_qq]C privilege 15"]}
+{"commands":["username enable_15 password "tG~d&gR3pR~o6!k privilege 15"]}
+{"commands":["username SecOps1 password hBa|)RToW5ltcEA_ privilege 15"]}
+{"commands":["username SecOps2 password KJo=_'{M-{z|x_J: privilege 15"]}
+{"commands":["username SecOps3 password pq{R?y=otf%~akb[ privilege 15"]}
+{"commands":["username SecOps4 password (HYu5fK>C&Hr<l"H privilege 15"]}
+{"commands":["username SecOps5 password Trc?eD|sG*g\]]r. privilege 15"]}
+{"commands":["username SecOps6 password Glj+P[O6^yk_7HUj privilege 15"]}
+{"commands":["username SecOps7 password e-3`ey2EtJP$S!,Q privilege 15"]}
+{"commands":["username tufin password T\pE-iO2&"5{q6Za privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password }gpd?LH4d64#$P@g privilege 15"]}
+{"commands":["username enable_15 password `ge}@j#G"UDCa|6% privilege 15"]}
+{"commands":["username SecOps1 password DLjCm&YU)>RE<.J* privilege 15"]}
+{"commands":["username SecOps2 password e\pV6z,0W_y*:Q)$ privilege 15"]}
+{"commands":["username SecOps3 password 7~l4'SML*r@#~d^M privilege 15"]}
+{"commands":["username SecOps4 password 0ZyGIM2FNg?lBk7E privilege 15"]}
+{"commands":["username SecOps5 password PF3|T~f(;OP2C21h privilege 15"]}
+{"commands":["username SecOps6 password u-`Yu%%GYR8@CvwC privilege 15"]}
+{"commands":["username SecOps7 password 7srSNP!$19/<S6yd privilege 15"]}
+{"commands":["username tufin password >_cLzweSK68[L:R} privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password 0>2cBmmw$SzcNu@l privilege 15"]}
+{"commands":["username enable_15 password *$7@w>C4y:,!qj_. privilege 15"]}
+{"commands":["username SecOps1 password <k%8`XM=XIa4jwvM privilege 15"]}
+{"commands":["username SecOps2 password v>q]IH,P.8|M[V)r privilege 15"]}
+{"commands":["username SecOps3 password uR@S7'NAjp]o^&k* privilege 15"]}
+{"commands":["username SecOps4 password XJI&b}C>YO_^n#tm privilege 15"]}
+{"commands":["username SecOps5 password =e@v&HJxk\kq9dN& privilege 15"]}
+{"commands":["username SecOps6 password eV@%F2E^t>(T5>a, privilege 15"]}
+{"commands":["username SecOps7 password u4E<<R{-}J}LlQ{| privilege 15"]}
+{"commands":["username tufin password ewo*-89xI(&],?Sb privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password g_vR%Iy'Gf8-)#nm privilege 15"]}
+{"commands":["username enable_15 password =!#69:qs.;<Y6"|6 privilege 15"]}
+{"commands":["username SecOps1 password m-hO@geQwLScq4L8 privilege 15"]}
+{"commands":["username SecOps2 password 4<s(RI-iJ*Q5|H14 privilege 15"]}
+{"commands":["username SecOps3 password ^S"e\VvA7O1=MY5x privilege 15"]}
+{"commands":["username SecOps4 password eYJ$OLRky0N++{!u privilege 15"]}
+{"commands":["username SecOps5 password e\.3v7N4c5<:l}eG privilege 15"]}
+{"commands":["username SecOps6 password Tf~**@G!H+-AM-K2 privilege 15"]}
+{"commands":["username SecOps7 password UyQXNukWV#o{qw0u privilege 15"]}
+{"commands":["username tufin password ^VxL3qd0mm.Rt%hG privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password Jn;y\9KC5AZPKIy? privilege 15"]}
+{"commands":["username enable_15 password ZE>Ofzv\58mQF9]+ privilege 15"]}
+{"commands":["username SecOps1 password Vsc:pUBcAJD}8f7& privilege 15"]}
+{"commands":["username SecOps2 password Q<"I](N8UzakuomP privilege 15"]}
+{"commands":["username SecOps3 password )D+`n<xwY&42Ph"c privilege 15"]}
+{"commands":["username SecOps4 password $cqc?{OD{K2;qI;X privilege 15"]}
+{"commands":["username SecOps5 password \,w6>]Rlsu'@](T8 privilege 15"]}
+{"commands":["username SecOps6 password VGCaJ=#8%(Vcd/w2 privilege 15"]}
+{"commands":["username SecOps7 password sMLi5*pEpR"dRDF? privilege 15"]}
+{"commands":["username tufin password PW,+lEQ57yk61\K& privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password 0P^f2(4*1GX*A3nj privilege 15"]}
+{"commands":["username enable_15 password mU#h_Z2HKp_t@<=< privilege 15"]}
+{"commands":["username SecOps1 password "S*qwnr238+[x@IP privilege 15"]}
+{"commands":["username SecOps2 password )Z`3lxP0}0nad@rf privilege 15"]}
+{"commands":["username SecOps3 password 3VersNr.U8naqo#9 privilege 15"]}
+{"commands":["username SecOps4 password ;,vwu~rNn`y-0"4b privilege 15"]}
+{"commands":["username SecOps5 password wxvnO*Wlp&O}x3^8 privilege 15"]}
+{"commands":["username SecOps6 password Nbr+&*oUR8M%tbxN privilege 15"]}
+{"commands":["username SecOps7 password jtS3SS2552}*2@~\ privilege 15"]}
+{"commands":["username tufin password .K4h&<V^M-a'oE'; privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password LF4ERPuD9cyxSG$& privilege 15"]}
+{"commands":["username enable_15 password f1s0"iQw;Qrb%IY( privilege 15"]}
+{"commands":["username SecOps1 password 4b`%lG2{4)}7V74P privilege 15"]}
+{"commands":["username SecOps2 password Xe'@lhgl!,X#{nlk privilege 15"]}
+{"commands":["username SecOps3 password s#)N^OD+~9~J^hfn privilege 15"]}
+{"commands":["username SecOps4 password mD%`P#R0b#:?O6o& privilege 15"]}
+{"commands":["username SecOps5 password Xeh9@k^&_w==.z3{ privilege 15"]}
+{"commands":["username SecOps6 password _yh4h_g^JN*\E({' privilege 15"]}
+{"commands":["username SecOps7 password ]=[wL.^>@=GDPY'0 privilege 15"]}
+{"commands":["username tufin password KT6;~o7m7X&wFqw< privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password }X#*85U(YYs"R+]i privilege 15"]}
+{"commands":["username enable_15 password z0A*d`kkC&(J__j\ privilege 15"]}
+{"commands":["username SecOps1 password H7m&!VMDvf/k`n*` privilege 15"]}
+{"commands":["username SecOps2 password y*`2ag:ET/4iAUvk privilege 15"]}
+{"commands":["username SecOps3 password h>xx2(']k|t+0+t- privilege 15"]}
+{"commands":["username SecOps4 password baHMI1??<97xnt4o privilege 15"]}
+{"commands":["username SecOps5 password {DbkB<Jhz.oU5KQ& privilege 15"]}
+{"commands":["username SecOps6 password Q5hSfXLIVcO;W!(& privilege 15"]}
+{"commands":["username SecOps7 password v7oRb|P9-k-^"2>x privilege 15"]}
+{"commands":["username tufin password ?(8YPo)2>`4>VmqH privilege 15"]}
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.102/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password Nb^hSxS){k;3}U%f privilege 15"]}
+{"commands":["username enable_15 password )X@02R>cX<^K0}@[ privilege 15"]}
+{"commands":["username SecOps1 password xhgOO7tl#~<q5'"F privilege 15"]}
+{"commands":["username SecOps2 password FF$/vor|/TGbo.gB privilege 15"]}
+{"commands":["username SecOps3 password )Mz2HopCxP4L:)c@ privilege 15"]}
+{"commands":["username SecOps4 password t"/(GVXUK&UyN*)9 privilege 15"]}
+{"commands":["username SecOps5 password :rfDqH}<Zi0BwDoZ privilege 15"]}
+{"commands":["username SecOps6 password [49[%I6tt03BPR-} privilege 15"]}
+{"commands":["username SecOps7 password }H6DA7Su$A|<0;sE privilege 15"]}
+{"commands":["username tufin password CNRz7Ry2lb;u/Cw; privilege 15"]}
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: ansible	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: enable_15	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps1	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps2	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps3	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps4	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps5	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps6	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: SecOps7	Privelege Level: 15 
+Url: https://192.168.0.105/api/objects/localusers/ 	Username: tufin	Privelege Level: 15 
+{"commands":["username ansible password XX.{Y3aRrf9VBd#W privilege 15"]}
+{"commands":["username enable_15 password c=@\'#7*{Mrcpc)z privilege 15"]}
+{"commands":["username SecOps1 password RAW-3`Gvb=urd,D1 privilege 15"]}
+{"commands":["username SecOps2 password s_4&&I(H(!wKvkrH privilege 15"]}
+{"commands":["username SecOps3 password H`]OAO_x-YkIc@-x privilege 15"]}
+{"commands":["username SecOps4 password Wi6.$AZQBp2lnw!h privilege 15"]}
+{"commands":["username SecOps5 password )D{S{~z.vC-$<F)Z privilege 15"]}
+{"commands":["username SecOps6 password Bxyt"8,H4~n@]p<X privilege 15"]}
+{"commands":["username SecOps7 password 7-.F:i@RM%=oWy}J privilege 15"]}
+{"commands":["username tufin password ._G1?gXk/:G$Cv_[ privilege 15"]}
