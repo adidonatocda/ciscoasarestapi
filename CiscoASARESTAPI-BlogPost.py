@@ -23,14 +23,13 @@ openlog=open(log_file, "w")
 payload={"commands":["show run user"]}
 backup_payload={"commands": ["show run"]}
 
-def get_creds():
-    fw_user=input("Username: ")
 
-    try:
-        fw_pwd=getpass.getpass(prompt='Password: ', stream=None)
-        en_pwd=getpass.getpass(prompt='Enable Password: ', stream=None)
-    except Exception as error:
-        print ('ERROR',error)
+fw_user=input("Username: ")
+try:
+    fw_pwd=getpass.getpass(prompt='Password: ', stream=None)
+    en_pwd=getpass.getpass(prompt='Enable Password: ', stream=None)
+except Exception as error:
+    print ('ERROR',error)
 
 def get_backups():
     openlog=open(log_file, "a")
@@ -116,8 +115,7 @@ print(" ")
 
 
 if __name__ == "__main__":
-    get_creds()#Get credentials for Login and access to your script to run
+    #get_creds()#Get credentials for Login and access to your script to run
     get_backups()# Back it up before you start.
     get_mgmtdata()#Get Management Access Information
-    #update_passwords()#This will change all passwords returned for any local accounts on the ASA!
-
+    update_passwords()#This will change all passwords returned for any local accounts on the ASA!
