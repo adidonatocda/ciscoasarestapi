@@ -27,7 +27,7 @@ backup_payload={"commands": ["show run"]}
 fw_user=input("Username: ")
 try:
     fw_pwd=getpass.getpass(prompt='Password: ', stream=None)
-    en_pwd=getpass.getpass(prompt='Enable Password: ', stream=None)
+    #en_pwd=getpass.getpass(prompt='Enable Password: ', stream=None)
 except Exception as error:
     print ('ERROR',error)
 
