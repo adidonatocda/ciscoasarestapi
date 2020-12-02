@@ -92,7 +92,7 @@ def update_passwords():
                     print("Username : " + i["name"],",Privilege Level : ",i["privilegeLevel"])
                     str_username=i["name"]
                     str_privilegeLevel=i["privilegeLevel"]
-                    openlog.write("Url: %s \tUsername: %s\tPrivelege Level: %s \n" % (url,str_username,str_privilegeLevel))
+                    openlog.write("Url: %s \tUsername: %s\tPrivilege Level: %s \n" % (url,str_username,str_privilegeLevel))
 
                 print("")
                 for j in usernameres['items']:
