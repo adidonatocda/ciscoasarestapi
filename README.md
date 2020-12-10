@@ -52,4 +52,4 @@ adidonato@ML-UBUNTU:~$python CiscoASARESTAPI-BlogPost.py
 
 NOTE: You will be prompted for <username> <password> <enable password>
 
-The rest of this blog is posted on https://criticaldesign.net
+The rest of this blog is posted on https://criticaldesign.net/news/automating-cisco-asa-configuration-management-with-rest-api.html
